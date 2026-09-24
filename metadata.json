@@ -1,0 +1,6 @@
+{
+  "name": "RemindMe",
+  "description": "Personal event and reminder management app with smart dashboard, calendar, recurring events, notifications, and synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
